@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Marsel0684.github.io/dzen-history-feed/feed.xml
